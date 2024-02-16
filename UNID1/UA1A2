@@ -1,0 +1,118 @@
+<!-- UNIDAD: PARCIAL No.1 Descripcion:Estructura basica HTML5 Fecha: 02 de
+febrero de 2024 -->
+<!DOCTYPE HTML>
+<html>
+    <!--Etiqueta de encabezado-->
+    <head>
+        <!--Etiqueta de titulo-->
+        <title>programacion web1</title>
+        <head>
+            <!--Etiqueta de cuerpo-->
+            <body>
+                <!--Etiqueta de titulo/encabezado de una seccion-->
+                <h1>Universidad politecnica &nbsp; de san luis potosi</h1>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec ultricies odio,
+                    vel bibendum odio. Proin varius purus sapien, vel interdum nulla venenatis quis.
+                    Integer fringilla vitae justo sed mattis. Fusce congue justo vitae arcu eleifend
+                    pellentesque. Phasellus lacinia facilisis volutpat. Maecenas tincidunt turpis
+                    vel ipsum bibendum, vitae lobortis magna hendrerit. Integer eget neque non leo
+                    imperdiet porta. Maecenas volutpat eros commodo libero ultricies consequat.
+                </p>
+                <br>
+                <br>
+                <br>
+                <br>
+                <h2>primara</h2>
+                <p>Nullam feugiat tortor vel sodales porttitor. Vivamus ornare at mi in
+                    placerat. Vestibulum ullamcorper velit purus, at lobortis felis molestie ut. In
+                    sed vehicula mi. Nunc malesuada, mauris et rhoncus varius, ipsum odio sagittis
+                    metus, quis ultricies eros enim ut elit. Cras blandit tincidunt tellus in
+                    ullamcorper. Phasellus placerat ac orci vitae rhoncus. Curabitur eget facilisis
+                    eros. Cras volutpat urna sit amet diam commodo, et faucibus urna volutpat.
+                    Maecenas porttitor velit quis mollis maximus. Donec eget nisl lacus. Aenean
+                    finibus, nulla vel tempor finibus, sem felis elementum urna, ac tincidunt leo
+                    ligula eu sapien.
+                </p>
+                <h3>Universidad politecnica de san luis potosdfsdfhfbfb</h3>
+                <p>Sed ut turpis justo. Integer rutrum eros a dolor pulvinar lobortis. Integer
+                    placerat enim non ligula aliquet, a aliquam sem pulvinar. Quisque eget posuere
+                    mauris. Praesent congue ultrices dui non semper. Sed hendrerit quis nisi in
+                    suscipit. Pellentesque nulla magna, iaculis quis risus quis, dictum commodo
+                    sapien. Etiam nec mi et tellus pellentesque condimentum nec non diam.
+                    Pellentesque ut vulputate nunc. Aenean ultrices lobortis nulla sed lobortis. In
+                    ullamcorper feugiat velit, ut posuere ex tincidunt id. Sed ultrices nisi ac nisi
+                    tempor, id ultrices velit malesuada
+                </p>
+                <h4>Universidad politecnica &acute;de san luis psfdfsdfdsfotosi</h4>
+                <p>
+                    Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et
+                    ultrices posuere cubilia curae; Aliquam dui urna, porta quis consectetur at,
+                    tristique ut elit. Maecenas gravida commodo tellus ut sodales. Nunc tempus est
+                    vitae ultricies molestie. Aenean et velit vel orci iaculis pulvinar. Maecenas
+                    sed diam vitae sem tincidunt dictum. Pellentesque sapien massa, sagittis nec
+                    condimentum ac, iaculis vitae est. Mauris at sapien imperdiet, ultrices purus
+                    sit amet, mattis tortor. Suspendisse eget elementum sem. Ut tortor ligula,
+                    suscipit eget congue sit amet, semper sed turpis. Aenean ac quam neque.
+                </p>
+                <h5>Universidad politecnica de san luis xvzxcvspovtosi</h5>
+                <p>Suspendisse tristique cursus turpis at sollicitudin. Sed diam enim, aliquam
+                    nec neque nec, varius porttitor nisl. Nam et urna felis. Nam diam elit, dapibus
+                    eu semper sed, hendrerit in tortor. Mauris viverra iaculis ante nec mattis. Duis
+                    feugiat gravida sollicitudin. Quisque volutpat odio ex, ac sagittis diam
+                    convallis nec. Proin rutrum lacus ac risus varius, tempus placerat nisi auctor.
+                    <p>
+                        <h6><html -hypertext="-Hypertext" -="-" markup="Markup" languague</h6>="languague</h6>" <h6> &aacute;="&aacute;" &eacute;="&eacute;" &#64;<br>="&#64;lunes<br>" <h7> &nbsp;&#8627;martes<br>" &nbsp;&#8627;miercoles<br>=" &nbsp;&#8627;jueves<br>="&nbsp;&#8627;jueves<br>" &nbsp;&#8627;viernes<br>="&nbsp;&#8627;viernes<br>" &nbsp;&#8627;sabados &nbsp;&#8627;domingos  <br> src ="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v-----v<br>v-----v<br>v ---v<br>v--v<br>v-v<br>v</h6>" lunes<br>" ="&nbsp;&#8627;martes<br>" ="&nbsp;&#8627;miercoles<br>" ="&nbsp;&#8627;jueves<br>" ="&nbsp;&#8627;viernes<br>" ="&nbsp;&#8627;sabados<br>" ="&nbsp;&#8627;domingos<br>" 
+                            <h5>"LISTA" de MONEDAS"</h5>
+                        <br>&#20803;mexico>
+                        <br>&#8353;brazil<img src="https://flagsapi.com/BR/shiny/64.png">
+                        <br>&#xFF04;usa<img src="https://flagsapi.com/US/shiny/64.png">
+                        <br>&#x20BA;turquia<img src="https://flagsapi.com/TR/shiny/64.png">
+                        <br>&#x20A3;francia<img src="https://flagsapi.com/FR/shiny/64.png">
+                        <br>&#65505;italia<img src="https://flagsapi.com/IT/shiny/64.png">
+                        <br>&#8353;colombia<img src="https://flagsapi.com/CO/shiny/64.png">
+                        <br>&#8381;rusia<img src="https://flagsapi.com/RU/shiny/64.png">
+                        <br>&#65505;nose<img src="https://flagsapi.com/VN/shiny/64.png">
+                        <br>&#8364;portugal<img src="https://flagsapi.com/PT/shiny/64.png">
+                        <br>&#165;japon<img src="https://flagsapi.com/JP/shiny/64.png">
+                        <br>&#8377;india<img src="https://flagsapi.com/IN/shiny/64.png"></h7>
+                    <h1>Tipos de listas</h1>
+                    <h3>listas con nu&aacute;meros
+                    </h3>
+                    <ol type="A">
+                        <li>lunes</li>
+                        <li>martes</li>
+                        <li>miercoles</li>
+                        <li>jueves</li>
+                        <li>viernes</li>
+                        <li>sabado</li>
+                        <li>domingo</li>
+                    </ol>
+                    <h3>listas con vi&aacute;ñetas</h3>
+                    <ul>
+                        <li>lunes</li>
+                        <li>martes</li>
+                        <li>miercoles</li>
+                        <li>jueves</li>
+                        <li>viernes</li>
+                        <li>sabado</li>
+                        <li>domingo</li>
+                    </ul>
+                    <h3>Lista de definiciones</h3>
+                        <dl>
+                        <dt>UPSLP</dt><dd>Universidad polit&eacute;cnica de san luis potosi</dd>
+                        <dt>ITI</dt><dd>ingenieria en tecnologias de la informacion</dd>
+                        <dt>ITEM</dt><dd>ingenieria en telematica</dd>
+                        </dl>
+                        <h3>lista con widget</h3>
+                        <details>
+                            <summary>¿qu&cacute;e significa  UPSLP</summary>
+                            <p>Universidad polit&eacute;cnica de san luis potosi</p>
+                        </details>
+                            <details><summary>¿qu&cacute;e significa  ITI</summary>
+                                <p>ingenieria en tecnologias de la informacion</p></details>
+                                <details>
+                                    <summary>¿qu&cacute;e significa  ITEM</summary>
+                                    <p>ingenieria en telematica</p>
+                        </details>
+                    <body></html>
