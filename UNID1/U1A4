@@ -1,0 +1,88 @@
+<!-- unidad parcial NO.1 Descripcion:eLEMENTOS DE CONTENIDO fecha:15 de febrero
+de 2024 -->
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>UPSLP -Programci&oacute;n WEB 1</title>
+    </head>
+    <body>
+        <h1>enlaces (link)</h1>
+        <a
+            href="https://www.msn.com/es-mx/noticias/other/los-memes-de-la-infidelidad-de-peso-pluma-a-nicki-nicole/ss-BB1idbuI?ocid=msedgntp&pc=U531&cvid=edf581acc4fe442188d92753a6bdaba1&ei=24">clic aqui</a>
+        <a href="https://www.goggle.com.mx/" target="_self">[ Home]
+        </a>
+        <a href="https://www.goggle.com.mx/" target="_blank">&#9918;
+        </a>
+        <a
+            href="https://www.msn.com/es-mx/entretenimiento/cine/la-letal-maldici%C3%B3n-poltergeist-que-cost%C3%B3-la-vida-a-muchos-de-sus-protagonistas/ss-BB1i80K3?ocid=msedgntp&pc=U531&cvid=6c3e989532b1445789b70de0b4cee697&ei=7">
+            <img src="https://flagsapi.com/MX/shiny/64.png"></a>
+            <br>
+                <h2>Enlaces locales en mi sitio</h2>
+                <a href="c:\Users\183443\Pictures\enlaces\UPSLP (Logo).jpg">[ logo upslp]</a>
+                <br>
+                    <a
+                        href="c:\Users\183443\Pictures\UPSLP (Mapa curricular) - ITI.png"
+                        target="_blank">mapa curricular</a>
+                    <a
+                        href="c:\Users\183443\Pictures\enlaces\UPSLP (Plan estudios) - ITI.jpg"
+                        target="_blank">plan de estudios</a>
+                    <br>
+                        <h2>Etiqueta de contenido</h2>
+                        Etiqueta "addres":<address>P.Sherman;Calle Wallaby No. 42;sydney</address>
+                        Etiqueta "small":<br>
+                            <small>Copyright &copy;2024 Ruben cardenas Sanchez.
+                                <br>todos los derechos reservados</small>
+                                <br>Etiqueta cite:<img
+                                    src="https://th.bing.com/th/id/OIP.aJs5wqUXsVaaCTXiZohRyQHaJ4?w=194&h=323&c=7&r=0&o=5&pid=1.7">
+                                        <p>
+                                            <cite>The scream
+                                            </cite>
+                                            dirigida por Wes Craven, y escrita por Kevin Williamson
+                                        </p>
+                                        <br>Etiqueta"blockquote:
+                                            <br>
+                                                <blockquote
+                                                    cite="https://www.msn.com/es-mx/entretenimiento/famosos/megan-fox-desata-pol%C3%A9mica-por-lucir-irreconocible-y-as%C3%AD-responde-la-actriz/ar-BB1irzBu?ocid=msedgntp&pc=U531&cvid=3ead134b4c37486e864767862ceb20a5&ei=5">
+                                                    Megan Fox es una de las mujeres más bellas de Hollywood, pero cada vez se aleja
+                                                    de su belleza natural. La actriz lució irreconocible en Las Vegas. La semana
+                                                    pasada Megan Fox celebró con su novio Machine Gun Kelly el triunfo de los Chiefs
+                                                    de Kansas junto a Taylor Swif y Travis Kelce.
+                                                </blockquote>
+                                                <br>
+                                                    Etiqueta mark:
+                                                    <br>
+                                                        <p>En el año de 1961
+                                                            <Mark>disney lanzó a cines una película
+                                                            </Mark>que seguía a un par de canes, Pongo y Perdita, empeñados en rescatar sus
+                                                            cachorros secuestrados por la malvada
+                                                            <mark>Cruella De Vill</mark>
+                                                            (con la voz de Betty Lou Gerson) quien planeaba convertirlos en abrigos de piel.
+                                                            Después de su estreno 101 dálmatas: la noche de las narices frías se convirtió
+                                                            en un verdadero clásico del estudio, aunque en su momento el mismo Walt Disney
+                                                            dudó del éxito y calidad del largometraje.</p>
+                                                        <br>Etiqueta "sub" & "sup":
+                                                            <br>Unidades 30 mts
+                                                                <sup>2</sup>;25 cms
+                                                                <sup>3</sup>;
+                                                                <br>De posici&oacute;n 1<sup>ro</sup>2<sup>do</sup>3<sup>ro</sup>4<sup>to</sup>
+                                                                    <br>Matem&acute;ticas 9x<sup>3</sup>+ 6x<sup>2</sup>
+                                                                        + 3 + 25 + 500 =?
+                                                                        2<sup>x</sup>+ 3<sup>y</sup>  =2<sup>xy</sup>
+                                                                        <br>Qu&cacute;mica h<sub>2</sub>0 --Agua; CO<sub>2</sub>----di&oacute;xido de carbono; h<sub>2</sub>O----agua oxigenada
+                                                                            <br>formulas E=mc<sup>2</sup>----relatividad; m = (y<sub>2</sub>) -- y<sub>1</sub>
+                                                                                &divide; (x<sub>2
+                                                                                </sub>
+                                                                                - x<sub>1
+                                                                                </sub>) pendienta
+                                                                                <br>para la ecuacion E=mc<sub>2</sub>;
+                                                                                    <var>E</var>
+                                                                                    corresponde con la energ&iacute;a
+                                                                                    <var>m</var>corresponde con la masa y
+                                                                                    <var>c</var>corresponde con la velocidad de la luz elevada al cuadrado (<sup>2</sup>)
+                                                                                    &asymp; 3000,000 km/s.
+                                                                                    <br>Comando para manipular textto copiar <kbd>Ctrl  +C</kbd>  pegar<kbd>Ctrl + v </kbd>  cortar <kbd>Ctrl + X</kbd>    
+                                                                                    <br>etiqueta "code:"    <br> para calcular una pendiente nesesitamos la variable <code>m</code>  que sera igual al resultado de la diferencia entre <code>y2</code>  y   <code>y1</code> 
+                                                                                    dividido entre la diferencia  entre <code>x2</code> y <code>x1</code> 
+                                                                                    
+                                                                                </body>
+                                                                            </html>
