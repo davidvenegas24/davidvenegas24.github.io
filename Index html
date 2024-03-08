@@ -1,0 +1,33 @@
+<!--
+    UNIDAD: PARCIAL No.1
+    Descripcion:pagina principal
+    Fecha: 08 de marzo de 2024
+-->
+<!DOCTYPE HTML>
+<html>
+    <!--Etiqueta de encabezado-->
+    <head>
+    <!--Etiqueta de titulo-->
+        <title>programacion web1</title>
+    <!--Etiqueta de cuerpo-->
+    </head>
+        <body>
+            <h1>--------------Portafolio183443-------------</h1>
+            <h2>&laquo;&laquo;&laquo; Unidad 1 &laquo;&laquo;&laquo;</h2>
+            <ol>
+                <li>
+                <details>
+                <summary> Actividad No 1</summary>
+                    <ul>
+                    <li>Enlace: <cite><a target="_blank" href="">  </cite></li>
+                    <li>Descripci&oacute;n:<cite>Estructura ba&aacute;sica de html5</cite>   </li>
+                    <li>Etiquetas<cite>html,head,title,,body </cite>   </li> 
+                    </ul>    
+                </details>    
+                </li>
+            </ol>
+            <h2>&laquo;&laquo;&laquo; Unidad 2 &laquo;&laquo;&laquo;</h2>
+            <h2>&laquo;&laquo;&laquo; Unidad 3 &laquo;&laquo;&laquo;</h2>
+        <body>
+    <head>
+</html>
