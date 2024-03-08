@@ -45,12 +45,83 @@ No.1 Descripcion:Elementos de contenido multimedia Fecha:
                                                         </details>
                                                         <h1>Mapa con imagenes</h1>
                                                         <details>
-                                                            <summary>Overwatch 2 </summary>
-                                                            <img usemap ="c:\Users\183443\Pictures\Overwatch_Heroes.jpg">
-                                                            <map name"Overwatch>
-                                                                <area shape="rect" coords="517,193,594,289" alt="Bastion" href="https://overwatch.blizzard.com/es-es/heroes/bastion/"
-                                                                <area shape="rect" coords="517,193,594,289" alt="Bastion" href="https://overwatch.blizzard.com/es-es/heroes/bastion/"
-                                                            </map>
+                                                            <summary>Plantas vz zombis </summary>
+                <img src="https://vignette.wikia.nocookie.net/plantsvszombies/images/9/95/All_Plants_from_PvZ2.png/revision/latest?cb=20150718214901" usemap="#image-map">
+
+<map name="image-map">
+    <area target="_blank" alt="girasol" title="girasol" href="https://plantsvszombies.fandom.com/es/wiki/Girasol" coords="112,70,6,3" shape="rect">
+    <area target="_blank" alt="lansaguisantes" title="lansaguisantes" href="https://plantsvszombies.fandom.com/es/wiki/Lanzaguisantes" coords="120,5,226,66" shape="rect">
+    <area target="_blank" alt="Nuez" title="Nuez" href="https://plantsvszombies.fandom.com/es/wiki/Nuez" coords="240,6,345,69" shape="rect">
+    <area target="_blank" alt="patapum" title="patapum" href="https://plantsvszombies.fandom.com/es/wiki/Patatapum" coords="353,5,460,68" shape="rect">
+    <area target="_blank" alt="Bumeran" title="Bumeran" href="https://plantsvszombies.fandom.com/es/wiki/Bumer%C3%A1n" coords="471,4,579,68" shape="rect">
+    <area target="_blank" alt="coltapulta" title="coltapulta" href="https://plantsvszombies.fandom.com/es/wiki/Coltapulta" coords="590,3,700,68" shape="rect">
+    <area target="_blank" alt="lechuga iceberg" title="lechuga iceberg" href="https://plantsvszombies.fandom.com/es/wiki/Lechuga_Iceberg" coords="813,67,707,6" shape="rect">
+    <area target="_blank" alt="comepiedras" title="comepiedras" href="https://plantsvszombies.fandom.com/es/wiki/Comepiedras" coords="824,5,931,68" shape="rect">
+    <area target="_blank" alt="birasol" title="birasol" href="https://plantsvszombies.fandom.com/es/wiki/Birasol" coords="941,5,1044,68" shape="rect">
+    <area target="_blank" alt="Bonk Choi" title="Bonk Choi" href="https://plantsvszombies.fandom.com/es/wiki/Bonk_Choi" coords="4,78,110,141" shape="rect">
+    <area target="_blank" alt="Repetidora" title="Repetidora" href="https://plantsvszombies.fandom.com/es/wiki/Repetidora" coords="119,78,229,140" shape="rect">
+    <area target="_blank" alt="Hielaguisantes" title="Hielaguisantes" href="https://plantsvszombies.fandom.com/es/wiki/Hielaguisantes" coords="244,80,345,136" shape="rect">
+    <area target="_blank" alt="lanzamaiz" title="lanzamaiz" href="https://plantsvszombies.fandom.com/es/wiki/Lanzama%C3%ADz" coords="357,75,457,138" shape="rect">
+    <area target="_blank" alt="Boca de dragon" title="Boca de dragon" href="https://plantsvszombies.fandom.com/es/wiki/Boca_de_drag%C3%B3n" coords="474,78,575,142" shape="rect">
+    <area target="_blank" alt="pinchohierba" title="pinchohierba" href="https://plantsvszombies.fandom.com/es/wiki/Pinchohierba" coords="706,77,814,142" shape="rect">
+    <area target="_blank" alt="cococañon" title="cococañon" href="https://plantsvszombies.fandom.com/es/wiki/Cococa%C3%B1%C3%B3n" coords="821,76,933,141" shape="rect">
+    <area target="_blank" alt="petacereza" title="petacereza" href="https://plantsvszombies.fandom.com/es/wiki/Petacereza" coords="942,79,1043,141" shape="rect">
+    <area target="_blank" alt="frijuelle" title="frijuelle" href="https://plantsvszombies.fandom.com/es/wiki/Frijuelle" coords="4,151,114,215" shape="rect">
+    <area target="_blank" alt="pinchorroca" title="pinchorroca" href="https://plantsvszombies.fandom.com/es/wiki/Pinchorroca" coords="125,152,225,215" shape="rect">
+    <area target="_blank" alt="tripitidora" title="tripitidora" href="https://plantsvszombies.fandom.com/es/wiki/Tripitidora" coords="241,151,342,212" shape="rect">
+    <area target="_blank" alt="apisonflor" title="apisonflor" href="https://plantsvszombies.fandom.com/es/wiki/Apisonaflor" coords="359,152,457,211" shape="rect">
+    <area target="_blank" alt="bipetidora" title="bipetidora" href="https://plantsvszombies.fandom.com/es/wiki/Bipetidora" coords="473,152,578,211" shape="rect">
+    <area target="_blank" alt="frijol" title="frijol" href="https://plantsvszombies.fandom.com/es/wiki/Frijol" coords="592,153,694,210" shape="rect">
+    <area target="_blank" alt="plantorcha" title="plantorcha" href="https://plantsvszombies.fandom.com/es/wiki/Plantorcha" coords="706,154,811,213" shape="rect">
+    <area target="_blank" alt="junco electrico" title="junco electrico" href="https://plantsvszombies.fandom.com/es/wiki/Junco_el%C3%A9ctrico" coords="825,154,927,212" shape="rect">
+    <area target="_blank" alt="nuez cascararabias" title="nuez cascararabias" href="https://plantsvszombies.fandom.com/es/wiki/Nuez_C%C3%A1scara-rabias" coords="941,152,1048,212" shape="rect">
+    <area target="_blank" alt="jalapeño" title="jalapeño" href="https://plantsvszombies.fandom.com/es/wiki/Jalape%C3%B1o" coords="1,225,108,286" shape="rect">
+    <area target="_blank" alt="vaina" title="vaina" href="https://plantsvszombies.fandom.com/es/wiki/Vaina" coords="127,225,222,286" shape="rect">
+    <area target="_blank" alt="melonpulta congelada" title="melonpulta congelada" href="https://plantsvszombies.fandom.com/es/wiki/Melonpulta_Congelada" coords="356,223,463,285" shape="rect">
+    <area target="_blank" alt="melonpulta" title="melonpulta" href="https://plantsvszombies.fandom.com/es/wiki/Melonpulta" coords="239,226,342,285" shape="rect">
+    <area target="_blank" alt="imitadora" title="imitadora" href="https://plantsvszombies.fandom.com/es/wiki/Imitadora" coords="473,223,576,285" shape="rect">
+    <area target="_blank" alt="margarita" title="margarita" href="https://plantsvszombies.fandom.com/es/wiki/Margarita_gigante" coords="592,226,696,284" shape="rect">
+    <area target="_blank" alt="frijol laser" title="frijol laser" href="https://plantsvszombies.fandom.com/es/wiki/Frijol_l%C3%A1ser" coords="706,224,811,283" shape="rect">
+    <area target="_blank" alt="trebolador" title="trebolador" href="https://plantsvszombies.fandom.com/es/wiki/Trebolador" coords="824,225,927,284" shape="rect">
+    <area target="_blank" alt="pomelo" title="pomelo" href="https://plantsvszombies.fandom.com/es/wiki/Pomelo" coords="941,222,1046,285" shape="rect">
+    <area target="_blank" alt="P.E.Melocotonico" title="P.E.Melocotonico" href="https://plantsvszombies.fandom.com/es/wiki/P.E.Melocoton%C3%A9tico" coords="9,299,105,358" shape="rect">
+    <area target="_blank" alt="frustrella" title="frustrella" href="https://plantsvszombies.fandom.com/es/wiki/Frustrella" coords="123,298,225,359" shape="rect">
+    <area target="_blank" alt="nuez infinita" title="nuez infinita" href="https://plantsvszombies.fandom.com/es/wiki/Nuez_infinita" coords="240,295,343,360" shape="rect">
+    <area target="_blank" alt="hierba lupa" title="hierba lupa" href="https://plantsvszombies.fandom.com/es/wiki/Hierba_lupa" coords="359,300,465,358" shape="rect">
+    <area target="_blank" alt="rabano casillero" title="rabano casillero" href="https://plantsvszombies.fandom.com/es/wiki/R%C3%A1bano_casillero" coords="472,297,579,356" shape="rect">
+    <area target="_blank" alt="hipnoseta" title="hipnoseta" href="https://plantsvszombies.fandom.com/es/wiki/Hipnoseta" coords="589,297,700,358" shape="rect">
+    <area target="_blank" alt="seta solar" title="seta solar" href="https://plantsvszombies.fandom.com/es/wiki/Seta_Solar" coords="712,298,810,356" shape="rect">
+    <area target="_blank" alt="seta desesporada" title="seta desesporada" href="https://plantsvszombies.fandom.com/es/wiki/Seta_desesporada" coords="820,298,930,359" shape="rect">
+    <area target="_blank" alt="humoseta" title="humoseta" href="https://plantsvszombies.fandom.com/es/wiki/Humoseta" coords="942,296,1046,357" shape="rect">
+    <area target="_blank" alt="frijol solar" title="frijol solar" href="https://plantsvszombies.fandom.com/es/wiki/Frijol_solar" coords="9,370,113,435" shape="rect">
+    <area target="_blank" alt="cacahuetes" title="cacahuetes" href="https://plantsvszombies.fandom.com/es/wiki/Cacahuete" coords="124,367,229,432" shape="rect">
+    <area target="_blank" alt="magnetoseta" title="magnetoseta" href="https://plantsvszombies.fandom.com/es/wiki/Magnetoseta" coords="236,370,347,433" shape="rect">
+    <area target="_blank" alt="planta carroñivora" title="planta carroñivora" href="https://plantsvszombies.fandom.com/es/wiki/Planta_Carro%C3%B1%C3%ADvora" coords="355,371,464,434" shape="rect">
+    <area target="_blank" alt="nenufar" title="nenufar" href="https://plantsvszombies.fandom.com/es/wiki/Nen%C3%BAfar" coords="473,369,577,428" shape="rect">
+    <area target="_blank" alt="zampalaga" title="zampalaga" href="https://plantsvszombies.fandom.com/es/wiki/Zampalga" coords="590,371,695,430" shape="rect">
+    <area target="_blank" alt="bulbo de bolera" title="bulbo de bolera" href="https://plantsvszombies.fandom.com/es/wiki/Bulbo_de_bolera" coords="707,370,811,435" shape="rect">
+    <area target="_blank" alt="cardo teledirigido" title="cardo teledirigido" href="https://plantsvszombies.fandom.com/es/wiki/Cardo_teledirigido" coords="825,369,925,433" shape="rect">
+    <area target="_blank" alt="guacadrilo" title="guacadrilo" href="https://plantsvszombies.fandom.com/es/wiki/Guacadrilo" coords="942,372,1050,437" shape="rect">
+    <area target="_blank" alt="lanzaplatanos" title="lanzaplatanos" href="https://plantsvszombies.fandom.com/es/wiki/Lanzapl%C3%A1tanos" coords="2,441,112,508" shape="rect">
+    <area target="_blank" alt="chile fantasma" title="chile fantasma" href="https://plantsvszombies.fandom.com/es/wiki/Chile_fantasma" coords="123,441,229,504" shape="rect">
+    <area target="_blank" alt="boniato" title="boniato" href="https://plantsvszombies.fandom.com/es/wiki/Boniato" coords="241,442,346,505" shape="rect">
+    <area target="_blank" alt="lanza carpinchos" title="lanza carpinchos" href="https://plantsvszombies.fandom.com/es/wiki/Ra%C3%ADz_de_escape" coords="357,442,460,509" shape="rect">
+    <area target="_blank" alt="colipoder" title="colipoder" href="https://plantsvszombies.fandom.com/es/wiki/Colipoder" coords="472,443,580,509" shape="rect">
+    <area target="_blank" alt="papa caliente" title="papa caliente" href="https://plantsvszombies.fandom.com/es/wiki/Papa_Caliente" coords="589,443,694,504" shape="rect">
+    <area target="_blank" alt="lanzachiles" title="lanzachiles" href="https://plantsvszombies.fandom.com/es/wiki/Lanzachiles" coords="710,444,814,502" shape="rect">
+    <area target="_blank" alt="guardacelguas" title="guardacelguas" href="https://plantsvszombies.fandom.com/es/wiki/Guardacelga" coords="824,440,928,504" shape="rect">
+    <area target="_blank" alt="lanzaguisantes de fuego" title="lanzaguisantes de fuego" href="https://plantsvszombies.fandom.com/es/wiki/Lanzaguisantes_de_fuego" coords="940,445,1048,509" shape="rect">
+    <area target="_blank" alt="cebolla aturdidora" title="cebolla aturdidora" href="https://plantsvszombies.fandom.com/es/wiki/Cebolla_aturdidora" coords="6,515,107,577" shape="rect">
+    <area target="_blank" alt="rotinabo" title="rotinabo" href="https://plantsvszombies.fandom.com/es/wiki/Rotinabo" coords="123,516,226,580" shape="rect">
+    <area target="_blank" alt="diente de leon" title="diente de leon" href="https://plantsvszombies.fandom.com/es/wiki/Diente_de_le%C3%B3n" coords="236,514,346,580" shape="rect">
+    <area target="_blank" alt="guayalava" title="guayalava" href="https://plantsvszombies.fandom.com/es/wiki/Guayalava" coords="356,517,463,582" shape="rect">
+    <area target="_blank" alt="aguijon rojo" title="aguijon rojo" href="https://plantsvszombies.fandom.com/es/wiki/Aguij%C3%B3n_rojo" coords="473,516,581,582" shape="rect">
+    <area target="_blank" alt="AKKE" title="AKKE" href="https://plantsvszombies.fandom.com/es/wiki/AKEE" coords="591,515,698,575" shape="rect">
+    <area target="_blank" alt="endurian" title="endurian" href="https://plantsvszombies.fandom.com/es/wiki/Enduri%C3%A1n" coords="706,518,808,576" shape="rect">
+    <area target="_blank" alt="hongo" title="hongo" href="https://plantsvszombies.fandom.com/es/wiki/Hongo" coords="823,516,930,577" shape="rect">
+    <area target="_blank" alt="paralia" title="paralia" href="https://plantsvszombies.fandom.com/es/wiki/Paralia" coords="943,517,1046,578" shape="rect">
+    <area target="_blank" alt="hoja dorada" title="hoja dorada" href="https://plantsvszombies.fandom.com/es/wiki/Hoja_dorada" coords="5,586,110,652" shape="rect">
+</map>
                                                         </details>
             </body>
                                 
