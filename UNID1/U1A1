@@ -9,11 +9,12 @@
     <head>
     <!--Etiqueta de titulo-->
         <title>programacion web1</title>
+ </head>
     <!--Etiqueta de cuerpo-->
         <body>
             <p>
                 comenzando con el curso de nucleo operativo 
             <p>
-        <body>
-    <head>
+        </body>
+   
 </html>
