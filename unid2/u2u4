@@ -1,0 +1,132 @@
+<!--
+    UNIDAD: PARCIAL No.2
+    Descripcion:estilos
+    Fecha: 20 de febrero de 2024
+-->
+<!DOCTYPE HTML>
+<html>
+    <!--Etiqueta de encabezado-->
+    <head>
+    <!--Etiqueta de titulo-->
+        <title>programacion web1</title>
+        <style type="text/css">
+            li{
+                text-decoration: underline;
+                text-decoration-color: rgb(146, 50, 11);
+                text-decoration-style: navy;
+                text-decoration-thickness: 1.5px;
+            }
+            tr{
+                background-color: dimgray;
+            }
+            .par{
+                background-color: orangered;
+            }
+            .impar{
+                background-color: rgb(15, 15, 15);
+            }
+            .centrado{
+                background-color: rgb(15, 15, 15);
+            }
+            .calif_a{
+                background-color: rgb(8, 54, 14);   /*10-9.51*/
+            }
+            .calif_b{
+                background-color: rgb(48, 126, 78);/*9.51-8.51*/
+            }
+            .calif_c{
+                background-color: rgb(185, 130, 27);/*8.51-7.51*/
+            }
+            .calif_d{
+                background-color: rgb(102, 53, 8);/*7.51-6.51*/
+            }
+            .calif_e{
+                background-color: rgb(36, 2, 2);/*6.51-5.51*/
+            }
+            .columnas{
+                column-gap: 50px;
+                column-rule-style: dashed;
+                column-rule-width: 1px;
+                column-rule-color: yellowgreen;
+                text-justify: auto;
+            }
+        </style>
+</head>
+    <!--Etiqueta de cuerpo-->
+        <body style="color: darkblue; background-color: rgb(29, 77, 99);">
+            <h1 style="text-align: center; color: floralwhite;background-color: navy;">estilos</h1>
+            <h3 style="text-align: center; color: floralwhite;background-color: navy;">color de letra y fodo</h3>
+            <p>Reprehenderit irure fugiat exercitation adipisicing fugiat nulla voluptate velit Lorem consequat labore culpa do. Magna cillum incididunt magna anim sint in laboris id esse pariatur veniam laborum ex aute. Excepteur labore dolor eiusmod incididunt eu consectetur officia magna culpa adipisicing amet fugiat amet.</p>
+            <p style="color: blueviolet; background-color: rgb(28, 26, 107);">Laborum voluptate et et labore et cupidatat. Consectetur eiusmod nisi velit nostrud. Sint incididunt cupidatat cillum dolor amet nisi Lorem ipsum irure proident magna labore pariatur magna. Nisi nisi do aliqua elit non culpa ea culpa.</p>
+            <p style="color: burlywood; background-color: rgb(77, 31, 104);">Laboris id laboris ea tempor pariatur id magna excepteur magna velit proident veniam magna exercitation. Aute dolore aliqua ut dolore id sint adipisicing occaecat laboris mollit cillum cillum sit consequat. Ullamco ipsum laborum officia laboris et incididunt Lorem. Consequat fugiat dolore duis quis quis esse ad aliqua. Sunt deserunt minim magna culpa. Commodo laboris eiusmod aliqua amet est in. Tempor aute est pariatur quis esse est culpa non sunt aliquip aliqua elit.</p>
+            <p style="color: deeppink; background-color: rgb(205, 50, 89);">Dolor deserunt labore magna culpa ut ullamco tempor. Cupidatat deserunt eu labore irure minim voluptate occaecat officia non. Est aliqua nulla ad qui.</p>
+            <p style="color: indigo; background-color: rgb(82, 27, 10);" >Magna pariatur non eiusmod anim esse sit eiusmod sunt laboris velit consectetur. Occaecat qui laborum tempor nisi. Ex nisi incididunt fugiat exercitation magna. Exercitation est occaecat commodo ut cillum pariatur eu. Laboris elit aute officia magna elit velit ullamco laboris incididunt adipisicing eu incididunt. Ipsum deserunt ut eiusmod et enim reprehenderit exercitation mollit minim culpa ad veniam.</p>
+            <p style="color: midnightblue; background-color: rgb(114, 79, 91);">Nostrud voluptate mollit ut duis elit nulla mollit consectetur nostrud sit. Ut commodo nisi do incididunt consectetur eu eiusmod veniam. Amet ea dolore ea aliqua. Exercitation incididunt quis est adipisicing laboris. Pariatur dolor et anim do. Dolore occaecat incididunt ut Lorem incididunt reprehenderit reprehenderit ex reprehenderit.</p>
+            <p>Incididunt duis cillum mollit aute excepteur fugiat occaecat aute veniam eiusmod officia id eu eiusmod. Ea ea officia est non reprehenderit aliqua anim et dolor fugiat duis irure nulla eiusmod. Eiusmod incididunt laborum laboris sunt nisi amet deserunt commodo. Incididunt minim ut incididunt ullamco ex pariatur nulla esse. Pariatur consectetur do nulla esse exercitation pariatur nulla qui quis. Sint id incididunt dolor aliqua. Est aliqua anim ullamco veniam do eiusmod.</p>
+            <h3 style="text-align: center; color: floralwhite;background-color: navy;">alineaci&oacute;n del texto</h3>
+            <p style="text-align: left;">Nostrud culpa sunt nulla ad enim officia pariatur anim veniam occaecat exercitation aute. Et est qui culpa nulla Lorem officia eu incididunt non consequat fugiat voluptate id. Consequat dolore ex anim exercitation ipsum Lorem sunt ullamco dolore laborum. Nostrud qui nostrud officia cupidatat incididunt non proident adipisicing laboris minim incididunt tempor esse aliquip. Nulla laborum ea commodo nulla est aute ea amet commodo minim consequat nostrud deserunt. Dolor pariatur culpa ea id eu duis sit.</p>
+            <p  style="text-align: right;">Quis esse aute eiusmod fugiat aute ea qui Lorem voluptate elit do commodo. Ipsum qui sunt labore tempor. Ut enim elit aute exercitation pariatur eiusmod consectetur consequat sint occaecat.</p>
+            <p style="text-align:  center; background-color: antiquewhite;" >Aliqua irure ea voluptate nulla. Ut id enim nostrud laboris ex consequat adipisicing. Ex in ad amet velit sit non nostrud. Ex officia culpa tempor commodo tempor excepteur velit id esse ullamco fugiat exercitation et.</p>
+            <p style="text-align: justify;">Enim velit cillum ad aliquip voluptate non occaecat dolore elit dolor consectetur nulla elit. Nulla veniam sunt est dolore qui veniam officia velit ad cupidatat. Commodo adipisicing consequat ex duis sint laboris laboris magna sunt.</p>
+            <h3 style="text-align: center; color: floralwhite;background-color: navy;">decoracion del texto</h3>
+            <a href="#"style="text-decoration: none;">https://www.msn.com/es-mx/entretenimiento/musica/las-rivalidades-m%C3%A1s-sonadas-en-la-historia-de-la-m%C3%BAsica/ss-BB1kdoF8?ocid=msedgntp&pc=U531&cvid=17e9ede63f984e57a57586c2d4ca310c&ei=27#image=3</a>
+            <p style="text-decoration: overline;">Aliquip tempor sunt et nulla. Dolor eiusmod ex amet aliquip consectetur sunt quis deserunt laborum labore. Amet Lorem elit mollit dolore magna aliqua mollit occaecat ullamco. Magna aute non id quis voluptate aliqua ullamco adipisicing commodo. Et ullamco minim sint pariatur reprehenderit non mollit excepteur incididunt exercitation veniam. Ipsum ea incididunt veniam dolore consectetur pariatur magna quis Lorem veniam velit duis. Ad cillum aliquip sit amet irure velit.</p>
+            <p  style="text-decoration: underline;">Esse reprehenderit irure in ullamco velit labore sunt minim aliqua aliqua laboris ad laborum. Voluptate voluptate consectetur cillum proident et nisi sint consequat consectetur eu exercitation. Ea est aliquip ad minim tempor dolore exercitation officia velit id exercitation exercitation.</p>
+            <p style="text-decoration: line-through;">Non in exercitation anim tempor do ea ipsum officia consequat adipisicing cillum. Consectetur voluptate qui non sint veniam aliqua ut exercitation anim laboris eu pariatur proident deserunt. Eu amet id irure fugiat anim officia. Qui ipsum enim nisi aliquip culpa excepteur laborum ullamco voluptate et amet laboris aute aute. Amet minim officia dolor voluptate ex minim officia.</p>
+            <ol>
+                <li>Laborum eu irure proident qui quis magna excepteur do Lorem quis. Eiusmod adipisicing velit do do incididunt reprehenderit eiusmod esse occaecat in pariatur eiusmod incididunt mollit. Tempor sunt nulla qui incididunt labore sint commodo aute culpa culpa. Ad tempor dolor labore et aliqua aliqua sunt cupidatat consectetur commodo culpa cillum laboris proident.</p>
+                <li>Cillum cupidatat voluptate ex aliqua excepteur laboris nostrud ipsum tempor in voluptate laborum occaecat ut. Velit adipisicing nisi exercitation ullamco. In id aliqua irure sunt.</p>
+                <li>Quis Lorem in exercitation est labore consequat veniam. Proident commodo sint tempor eu in aute ad magna nostrud laboris amet voluptate exercitation proident. Officia aute ut laboris officia nulla. Laborum ullamco ad voluptate velit non nulla voluptate deserunt in. Elit eiusmod excepteur voluptate labore ullamco.</p>
+                <li>Incididunt est eu pariatur amet ut Lorem labore non pariatur aute duis et amet. Nulla aliquip voluptate reprehenderit irure. Est ea exercitation aliqua quis. Sit velit amet ad sit labore qui officia id quis in.</p>
+                <li>Adipisicing proident deserunt ad id laboris qui laboris incididunt veniam qui velit ipsum incididunt nisi. In exercitation aliqua adipisicing aute do officia tempor et. Officia occaecat labore amet ut proident ipsum non amet voluptate excepteur officia qui et. Incididunt cupidatat laborum Lorem excepteur occaecat nostrud excepteur eu aliqua.</p>
+            </ol>
+            <h1>tablas con encabezado</h1>
+            <table border="4" style="background-color: aliceblue;">
+                <tr >
+                <caption style="color: azure; background-color: darkgrey;"> Calificaciones  de la unidad no. 1</caption>
+                <th style="color: azure; background-color: rgb(46, 43, 43);">alumnos</th>
+                <th style="color: azure; background-color: rgb(46, 43, 43);">calificaci&oacute;n</th>
+            </tr>
+<tr class="impar"><th>1</th><td>Tobías Emiliano</td><td class="centrado calif_e">5.54</td></tr> 
+
+<tr class="par"><th>2</th><td>Briano Montalvo Luis Enrique</td><td class="centrado calif_b">8.75</td></tr> 
+
+<tr class="impar"><th>3</th><td>Corpus Galarza Cesar Aaron</td><td class="centrado calif_c">8.50</td></tr> 
+
+<tr class="par"><th>4</th><td>de la Rosa Juárez Fernando De Jesús</td><td class="centrado calif_c">93.5</td></tr> 
+
+<tr class="impar"><th>5</th><td>Díaz Ramos Jesús Emmanuel</td><td class="centrado calif_b">7.75</td></tr> 
+
+<tr class="par"><th>6</th><td>Ferretiz Medina Marioni</td><td class="centrado calif_b">9.50</td></tr> 
+
+<tr class="impar"><th>7</th><td>Guerrero Ruiz Ana Paola</td><td class="centrado calif_e">9</td></tr> 
+
+<tr class="par"><th>8</th><td> Leos Manzo Axel Alejandro</td><td class="centrado calif_b">10</td></tr>
+
+<tr class="impar"><th>9</th><td>Medina Avila Moises</td><td class="centrado calif_b">9</td></tr> 
+
+<tr class="par"><th>10</th><td>Moreno Rivera Diego</td><td class="centrado calif_e">7.87</td></tr> 
+
+<tr class="impar"><th>11</th><td> Pérez Martínez Israel</td><td class="centrado calif_f">9.15</td></tr>
+
+<tr class="par"><th>12</th><td>Reyes Acosta Katia Lizeth</td><td class="centrado calif_b">8.25</td></tr> 
+
+<tr class="impar"><th>13</th><td>Robles Mendoza Jonathan Ramses</td><td class="centrado calif_b">7.55</td></tr> 
+
+<tr class="par"><th>14</th><td>Rocha Medina Luis Alfonso</td><td class="centrado calif_c">7.75</td></tr> 
+
+<tr class="impar"><th>15</th><td>Romero Reyes Mariana Monserrat</td><td class="centrado calif_b">8.95</td></tr> 
+
+<tr class="par"><th>16</th><td>Torres Aguilera Isaac</td><td class="centrado calif_b">9.95</td></tr> 
+
+<tr class="impar"><th>17</th><td> Vicencio Escalante Jaime Hazael</td><td class="centrado calif_b">10</td></tr>
+
+<tr class="par"><th>18</th><td>Villanueva Venegas Cristian David</td><td class="centrado calif_b">9.50</td></tr> 
+        </table>  
+        <h3>TEXTO EN COLUMNAS</h3>
+        <p class="columnas" style="column-width: 100px;">Ea veniam culpa Lorem eiusmod enim laborum magna. Consequat officia anim Lorem laborum. Magna ullamco officia incididunt nulla minim voluptate laboris nulla. Culpa in minim aute ullamco cillum in mollit. Irure excepteur commodo ex proident eiusmod. Ea tempor enim mollit officia consequat irure cillum incididunt ipsum officia.Ex commodo aliqua mollit ipsum. Culpa cillum cupidatat ullamco ullamco culpa deserunt voluptate dolor nulla tempor adipisicing cupidatat. Pariatur Lorem nisi mollit id nostrud exercitation. Ad officia sint nostrud aliquip dolor aute magna in enim cupidatat exercitation id cillum exercitation. Id veniam veniam Lorem ipsum et fugiat fugiat excepteur ut consectetur officia mollit quis. Commodo reprehenderit labore tempor reprehenderit velit. Magna sunt nisi ut commodo.Ad deserunt non culpa ullamco. Elit commodo ut labore dolore proident do mollit. Pariatur nostrud ex magna sunt deserunt enim tempor ullamco sunt aliquip. Quis elit laboris ad pariatur elit est commodo esse laboris. Nostrud excepteur eiusmod nulla culpa aute culpa dolor minim anim enim ullamco. Ut proident excepteur nulla adipisicing id elit eu.</p>
+        <p class="columnas">Ea veniam culpa Lorem eiusmod enim laborum magna. Consequat officia anim Lorem laborum. Magna ullamco officia incididunt nulla minim voluptate laboris nulla. Culpa in minim aute ullamco cillum in mollit. Irure excepteur commodo ex proident eiusmod. Ea tempor enim mollit officia consequat irure cillum incididunt ipsum officia.Ex commodo aliqua mollit ipsum. Culpa cillum cupidatat ullamco ullamco culpa deserunt voluptate dolor nulla tempor adipisicing cupidatat. Pariatur Lorem nisi mollit id nostrud exercitation. Ad officia sint nostrud aliquip dolor aute magna in enim cupidatat exercitation id cillum exercitation. Id veniam veniam Lorem ipsum et fugiat fugiat excepteur ut consectetur officia mollit quis. Commodo reprehenderit labore tempor reprehenderit velit. Magna sunt nisi ut commodo.Ad deserunt non culpa ullamco. Elit commodo ut labore dolore proident do mollit. Pariatur nostrud ex magna sunt deserunt enim tempor ullamco sunt aliquip. Quis elit laboris ad pariatur elit est commodo esse laboris. Nostrud excepteur eiusmod nulla culpa aute culpa dolor minim anim enim ullamco. Ut proident excepteur nulla adipisicing id elit eu.</p>
+        <p class="columnas">Ea veniam culpa Lorem eiusmod enim laborum magna. Consequat officia anim Lorem laborum. Magna ullamco officia incididunt nulla minim voluptate laboris nulla. Culpa in minim aute ullamco cillum in mollit. Irure excepteur commodo ex proident eiusmod. Ea tempor enim mollit officia consequat irure cillum incididunt ipsum officia.Ex commodo aliqua mollit ipsum. Culpa cillum cupidatat ullamco ullamco culpa deserunt voluptate dolor nulla tempor adipisicing cupidatat. Pariatur Lorem nisi mollit id nostrud exercitation. Ad officia sint nostrud aliquip dolor aute magna in enim cupidatat exercitation id cillum exercitation. Id veniam veniam Lorem ipsum et fugiat fugiat excepteur ut consectetur officia mollit quis. Commodo reprehenderit labore tempor reprehenderit velit. Magna sunt nisi ut commodo.Ad deserunt non culpa ullamco. Elit commodo ut labore dolore proident do mollit. Pariatur nostrud ex magna sunt deserunt enim tempor ullamco sunt aliquip. Quis elit laboris ad pariatur elit est commodo esse laboris. Nostrud excepteur eiusmod nulla culpa aute culpa dolor minim anim enim ullamco. Ut proident excepteur nulla adipisicing id elit eu.</p>
+
+        </body>
+</html>
