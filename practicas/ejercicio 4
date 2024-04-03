@@ -1,4 +1,4 @@
-<htlm>
+<html>
     <head>
 <title>World Wide Web</title>
     </head>
@@ -31,5 +31,5 @@ There is only one web.
 <p>Fuente:<em>Wikipedia</em></p>
 
         </body>  <!--faltaba terminar el body-->
-</htlm>
+</html>
 <!--a todos los acentos le faltaban una letra antes  de la a-->
