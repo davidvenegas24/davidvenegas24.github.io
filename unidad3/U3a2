@@ -1,0 +1,85 @@
+<!--
+    UNIDAD: PARCIAL No.3
+    Descripcion:Estructura basica HTML5
+    Fecha: 02 de febrero de 2024
+-->
+<!DOCTYPE HTML>
+<html>
+    <!--Etiqueta de encabezado-->
+    <head>
+    <!--Etiqueta de titulo-->
+        <title>programacion web1</title>
+        <link rel="stylesheet" href="ejemplo.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    </head>
+    <!--Etiqueta de cuerpo-->
+        <body  >
+            <h1 id="htitulo" class="vt323">Efectos con CSS</h1>
+        
+        <p id="gradcolores_1">
+            Enim ipsum sit fugiat laborum sunt reprehenderit sit irure. Est velit ea eu aliquip nulla. Ipsum duis consectetur laborum sint nisi adipisicing esse consectetur sit ex ut. Laboris adipisicing nisi in irure proident ex anim commodo esse et culpa aliquip. Cupidatat irure consequat exercitation pariatur velit quis irure aliquip nostrud nulla in.
+        </p>
+        <p id="gradcolores_2">
+            Enim ipsum sit fugiat laborum sunt reprehenderit sit irure. Est velit ea eu aliquip nulla. Ipsum duis consectetur laborum sint nisi adipisicing esse consectetur sit ex ut. Laboris adipisicing nisi in irure proident ex anim commodo esse et culpa aliquip. Cupidatat irure consequat exercitation pariatur velit quis irure aliquip nostrud nulla in.
+        </p>
+        <h1>Tipos de bot&oacute;n</h1>
+        <button>bot&oacute; cl&aacute;sico</button>
+        <a href="#"class="button">Enlace con estilo</a>
+        <input type="button" value="Input con estilo" class="button">
+        <button class="button">bot&oacute; con estilo</button>
+        <h2>lista con viñeta personalizada</h2>
+            <u1>
+                <li>Nisi nisi voluptate culpa veniam incididunt eiusmod quis deserunt sunt.</li>
+                <li>Cupidatat non velit et elit anim incididunt consequat.</li>
+                <li>esse minim voluptate quis irure non id et consectetur do laboris proident pariatur.</li> 
+                <li>Deserunt magna incididunt exercitation aute enim nostrud amet anim velit magna elit magna.</li>
+                <li>Irure velit do reprehenderit velit.</li>
+            </u1>
+            <h2>tooltip</h2>
+            <div class="tooltip">
+                UPSLP
+            </div>
+                <span class="tooltiptext">
+                    Universidad politecnica de SLP
+                </span>  
+                
+            UASLP,UVM,UNID,Entre otras...
+            <h2>menu de opciones</h2>
+            <div class="efecto">
+                <a href="#" style="text-decoration: none;"> Menu No.1</a>
+            </div>
+            <div class="efecto">
+                <a href="#" style="text-decoration: none;"> Menu No.2</a>
+            </div>
+            <div class="efecto">
+                <a href="#" style="text-decoration: none;"> Menu No.3</a>
+            </div>
+            <div class="efecto">
+                <a href="#" style="text-decoration: none;"> Menu No.4</a>
+            </div class="efecto">
+            <div class="efecto">
+                <a href="#" style="text-decoration: none;"> Menu No 5</a>
+            </div class="efecto">
+            <div class="efecto">
+                <a href="#" style="text-decoration: none;"> Menu No.6</a>
+            </div>
+            <h2>Animacion</h2>
+            <div class="rainbow_1"style="font-weight:basica"> 
+            Efecto rainbow
+            </div>
+            <h2>barra de progreso</h2>
+            <div class="barraProgreso"> Tiempo restante</div>
+            <h2>cubo</h2>
+            <div id="element">
+                <div class="face front">1</div>
+                <div class="face back">2</div>
+                <div class="face right">3</div>
+                <div class="face left">4</div>
+                <div class="face top">5</div>
+                <div class="face bottom">6</div>
+            </div>
+            
+    </body>
+</html>
