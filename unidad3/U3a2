@@ -1,85 +1,89 @@
 <!--
-    UNIDAD: PARCIAL No.3
-    Descripcion:Estructura basica HTML5
-    Fecha: 02 de febrero de 2024
+    Unidad: Parcial No. 1
+    Fecha: 4/30/2024
+    cristian david 183443
 -->
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-    <!--Etiqueta de encabezado-->
     <head>
-    <!--Etiqueta de titulo-->
-        <title>programacion web1</title>
+        <title>UPSLP - Programaci&oacute;n Web I</title>
         <link rel="stylesheet" href="ejemplo.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
     </head>
-    <!--Etiqueta de cuerpo-->
-        <body  >
-            <h1 id="htitulo" class="vt323">Efectos con CSS</h1>
-        
-        <p id="gradcolores_1">
-            Enim ipsum sit fugiat laborum sunt reprehenderit sit irure. Est velit ea eu aliquip nulla. Ipsum duis consectetur laborum sint nisi adipisicing esse consectetur sit ex ut. Laboris adipisicing nisi in irure proident ex anim commodo esse et culpa aliquip. Cupidatat irure consequat exercitation pariatur velit quis irure aliquip nostrud nulla in.
+    <body>
+        <h1 id="hTitulo" class="vt323">Efectos con css</h1>
+        <p id="gradColores_1">
+            Labore est cupidatat velit ex cillum nisi. Minim tempor duis consequat deserunt minim aliqua occaecat ipsum pariatur. Qui veniam labore tempor commodo veniam voluptate nisi reprehenderit velit voluptate ipsum aliqua ipsum ut. Reprehenderit dolore ullamco fugiat ad tempor ea eiusmod sunt. Ipsum reprehenderit et elit exercitation voluptate proident dolor.
+            Mollit laborum non eu labore laboris deserunt ea aliquip mollit laboris id voluptate. Reprehenderit incididunt reprehenderit commodo fugiat aliquip. Labore officia aliqua nostrud qui proident et. Labore aliqua consequat tempor aliquip fugiat eiusmod exercitation mollit ut aliquip. Nostrud aliquip dolore velit commodo sit elit tempor commodo voluptate.
+            Esse id laborum ad dolore cillum sunt anim mollit aliqua non culpa. Duis magna nulla ipsum est dolor amet officia magna est dolore anim quis eu non. Cillum excepteur sit irure aute sunt qui officia ipsum consectetur tempor qui sit deserunt. Duis nostrud voluptate ut anim consectetur nulla mollit quis aliqua ut.
+            Adipisicing cupidatat adipisicing nulla aute laborum mollit exercitation minim ea nulla in tempor voluptate ea. Reprehenderit incididunt et non enim eiusmod excepteur est. Ut labore magna non excepteur sint dolor culpa pariatur aute ex nulla ea. Fugiat non sint quis quis dolore ut. Id exercitation adipisicing sit ipsum Lorem consectetur do ad fugiat elit.
+            Culpa culpa anim veniam elit sint excepteur. Occaecat nulla ea enim deserunt adipisicing elit aute consequat labore aliquip irure dolor cillum. Mollit laboris qui et ad. Esse Lorem deserunt non aliquip velit nisi esse adipisicing fugiat dolore ex commodo aute magna. Eu exercitation laborum veniam commodo est.
         </p>
-        <p id="gradcolores_2">
-            Enim ipsum sit fugiat laborum sunt reprehenderit sit irure. Est velit ea eu aliquip nulla. Ipsum duis consectetur laborum sint nisi adipisicing esse consectetur sit ex ut. Laboris adipisicing nisi in irure proident ex anim commodo esse et culpa aliquip. Cupidatat irure consequat exercitation pariatur velit quis irure aliquip nostrud nulla in.
+        <p id="gradColores_2">
+            Labore est cupidatat velit ex cillum nisi. Minim tempor duis consequat deserunt minim aliqua occaecat ipsum pariatur. Qui veniam labore tempor commodo veniam voluptate nisi reprehenderit velit voluptate ipsum aliqua ipsum ut. Reprehenderit dolore ullamco fugiat ad tempor ea eiusmod sunt. Ipsum reprehenderit et elit exercitation voluptate proident dolor.
+            Mollit laborum non eu labore laboris deserunt ea aliquip mollit laboris id voluptate. Reprehenderit incididunt reprehenderit commodo fugiat aliquip. Labore officia aliqua nostrud qui proident et. Labore aliqua consequat tempor aliquip fugiat eiusmod exercitation mollit ut aliquip. Nostrud aliquip dolore velit commodo sit elit tempor commodo voluptate.
+            Esse id laborum ad dolore cillum sunt anim mollit aliqua non culpa. Duis magna nulla ipsum est dolor amet officia magna est dolore anim quis eu non. Cillum excepteur sit irure aute sunt qui officia ipsum consectetur tempor qui sit deserunt. Duis nostrud voluptate ut anim consectetur nulla mollit quis aliqua ut.
+            Adipisicing cupidatat adipisicing nulla aute laborum mollit exercitation minim ea nulla in tempor voluptate ea. Reprehenderit incididunt et non enim eiusmod excepteur est. Ut labore magna non excepteur sint dolor culpa pariatur aute ex nulla ea. Fugiat non sint quis quis dolore ut. Id exercitation adipisicing sit ipsum Lorem consectetur do ad fugiat elit.
+            Culpa culpa anim veniam elit sint excepteur. Occaecat nulla ea enim deserunt adipisicing elit aute consequat labore aliquip irure dolor cillum. Mollit laboris qui et ad. Esse Lorem deserunt non aliquip velit nisi esse adipisicing fugiat dolore ex commodo aute magna. Eu exercitation laborum veniam commodo est.
         </p>
-        <h1>Tipos de bot&oacute;n</h1>
-        <button>bot&oacute; cl&aacute;sico</button>
-        <a href="#"class="button">Enlace con estilo</a>
+        <h2>Tipos de bot&oacute;n</h2>
+        <button>Bot&oacute;n cl&aacute;sico</button>
+        <br>
+        <a href="#" class="button">Enlace con estilo</a>
         <input type="button" value="Input con estilo" class="button">
-        <button class="button">bot&oacute; con estilo</button>
-        <h2>lista con viñeta personalizada</h2>
-            <u1>
-                <li>Nisi nisi voluptate culpa veniam incididunt eiusmod quis deserunt sunt.</li>
-                <li>Cupidatat non velit et elit anim incididunt consequat.</li>
-                <li>esse minim voluptate quis irure non id et consectetur do laboris proident pariatur.</li> 
-                <li>Deserunt magna incididunt exercitation aute enim nostrud amet anim velit magna elit magna.</li>
-                <li>Irure velit do reprehenderit velit.</li>
-            </u1>
-            <h2>tooltip</h2>
-            <div class="tooltip">
-                UPSLP
-            </div>
-                <span class="tooltiptext">
-                    Universidad politecnica de SLP
-                </span>  
-                
-            UASLP,UVM,UNID,Entre otras...
-            <h2>menu de opciones</h2>
-            <div class="efecto">
-                <a href="#" style="text-decoration: none;"> Menu No.1</a>
-            </div>
-            <div class="efecto">
-                <a href="#" style="text-decoration: none;"> Menu No.2</a>
-            </div>
-            <div class="efecto">
-                <a href="#" style="text-decoration: none;"> Menu No.3</a>
-            </div>
-            <div class="efecto">
-                <a href="#" style="text-decoration: none;"> Menu No.4</a>
-            </div class="efecto">
-            <div class="efecto">
-                <a href="#" style="text-decoration: none;"> Menu No 5</a>
-            </div class="efecto">
-            <div class="efecto">
-                <a href="#" style="text-decoration: none;"> Menu No.6</a>
-            </div>
-            <h2>Animacion</h2>
-            <div class="rainbow_1"style="font-weight:basica"> 
-            Efecto rainbow
-            </div>
-            <h2>barra de progreso</h2>
-            <div class="barraProgreso"> Tiempo restante</div>
-            <h2>cubo</h2>
-            <div id="element">
-                <div class="face front">1</div>
-                <div class="face back">2</div>
-                <div class="face right">3</div>
-                <div class="face left">4</div>
-                <div class="face top">5</div>
-                <div class="face bottom">6</div>
-            </div>
-            
+        <button class="button">Bot&oacute;n con estilo</button>
+        <br>
+        <h2>Lista con viñeta personalizada</h2>
+        <ul>
+            <li>Sint laboris dolor dolor laboris mollit labore anim.</li>
+            <li>Excepteur labore minim aliqua sit deserunt fugiat laborum qui.</li>
+            <li>Ullamco laborum quis consectetur nulla nulla cupidatat nostrud incididunt Lorem ullamco laborum.</li>
+            <li>Labore velit cupidatat amet aute sint proident.</li>
+            <li>Enim veniam anim reprehenderit voluptate qui aliquip est consequat exercitation et.</li>
+        </ul>
+        <h2>Tooltip</h2>
+        <div class="tooltip">
+            UPSLP
+            <span class="tooltiptext">
+                Universidad Politécnica de San Luis Potosí
+            </span>
+        </div>, 
+        UASLP, UVM, UNID, entre otras...
+        <h2>Menú de opciones</h2>
+        <div class="efecto">
+            <a href="#" style="text-decoration: none;">Menú No. 1</a>
+        </div>
+        <div class="efecto">
+            <a href="#" style="text-decoration: none;">Menú No. 2</a>
+        </div>
+        <div class="efecto">
+            <a href="#" style="text-decoration: none;">Menú No. 3</a>
+        </div>
+        <div class="efecto">
+            <a href="#" style="text-decoration: none;">Menú No. 4</a>
+        </div>
+        <div class="efecto">
+            <a href="#" style="text-decoration: none;">Menú No. 5</a>
+        </div>
+        <div class="efecto">
+            <a href="#" style="text-decoration: none;">Menú No. 6</a>
+        </div>
+        <h2>Animación</h2>
+        <div class="rainbow_1" style="font-weight: bold;">
+            Efecto Rainbow
+        </div>
+        <h2>Barra de progreso</h2>
+        <div class="barraProgreso"> Tiempo restante </div>
+        <h2>Cubo</h2>
+        <div id="element">
+            <div class="face front">1</div>
+            <div class="face back">2</div>
+            <div class="face right">3</div>
+            <div class="face left">4</div>
+            <div class="face top">5</div>
+            <div class="face bottom">6</div>
+        </div>
     </body>
 </html>
