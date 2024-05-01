@@ -1,137 +1,175 @@
-h1{text-align: center;}
-p{text align: justify ;}
-#htitulo {color: rgb(50, 75, 75); background-color: rgb(198, 214, 230);}
-.vt323-regular {
+h1 { text-align: center; }
+p { text-align: justify; }
+#hTitulo { color: rgb(0, 68, 255); background-color: rgb(12, 180, 231); }
+
+.vt323
+{
     font-family: "VT323", monospace;
     font-weight: 400;
     font-style: normal;
   }
-#gradcolores_1 {background-image: linear-gradient(to left,#4400ff ,rgb(43, 8, 241),rgba(21, 4, 255, 0.473),rgb(5, 98, 238),rgb(73, 179, 197),rgb(10, 247, 156),rgb(10, 186, 230),rgba(11, 130, 241, 0.274),rgb(17, 182, 211),rgb(17, 138, 146),rgb(25, 190, 127));}
-#gradcolores_2 {background-image: radial-gradient( #e60f0f ,rgb(241, 8, 58),rgba(255, 4, 79, 0.945),rgb(199, 38, 113),rgb(197, 73, 187),rgb(248, 12, 189),rgb(204, 10, 230),rgba(141, 21, 221, 0.274),rgb(108, 17, 211))   }
-.button {
-    color: rgb(29, 95, 95);
-    background-color: #15a734;
-    border: none;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    margin: 4px 2px ;
-    padding: 15px 32px;
-    display: inline-block;
-    cursor: pointer;
-    transition-duration: 2s;
-    
-}
-.button:hover
-{
-color: #4400ff;
-background-color: rgb(27, 138, 138);
-}
-u1  {list-style:  none; padding-left: 10px;}
-u1 li:nth-child(odd){background-color: blueviolet; color: cadetblue;}
-u1 li:nth-child(even){background-color: rgb(10, 30, 212); color: rgb(173, 13, 165);}
-u1 li::before { content: "\26A1";padding-right:8px;}
-.tooltip
-    {
-        position: relative;
-        display: inline-block;
-        border-bottom: 3px dotted crimson;
-    }
-    .tooltip.tooltiptext
-    {
-    visibility: hidden;
-    position: absolute;
-    z-index: 1;
-    width: 125px;
-    text-align: center;
-    padding: 2px;
-    border: 1px solid gray;
-    background-color: #15a734;
-    }
-    .tooltip:hover .tooltiptext{
-        visibility: visible;
-    }
-    .efecto{
-        width: min-content;
-        background-color: dodgerblue;
-        border: 2px solid black;
-        height: 85%;
-        font-size: 85%;
-        transition: height 2.0s, font-size 2.0s, background-color 1s;
-    }
-    .efecto:hover{
-        background-color: darkblue;
-        height: 170%;
-        font-size: 170%;
-        transition: height 0.5s, font-size 0.5s;
-    }
-    .rainbow_1{
-        text-align: center;
-        vertical-align:middle ;
-        background-color: middle;
-        border: 2px dotted grey;
-        width: 200px;
-        height: 75px;
-        animation-name: rgb;
-        animation-duration: 3.0s;
-        animation-timing-function: linear;
-        animation-iteration-count: infinite;
-    }
-    @keyframes rgb 
-    {
-        0%{background-color: rgb(192, 111, 19);}
-        33%{background-color: rgb(228, 23, 159);}
-        66%{background-color: blue;}
-        100%{background-color: #a86c10;}
-    }
-    .barraProgreso{
-        height: 25px;width:100px;background-color: darkslategray;
-        color: black;font-size: 125%; font-weight: bold; text-align: center;
-        text-transform: uppercase; animation-timing-function: linear; animation-direction:reverse ;
-        animation-name: Progreso; animation-duration: 10s; animation-delay: 5s;
-    }
-    @keyframes .barraProgreso{
-        {background-color:azure; width: 0%;}
-        {background-color:rgb(248, 12, 12); width:33%;}
-        {background-color:rgb(216, 219, 20); width: 66%;}
-        {background-color:rgb(24, 226, 51); width: 99%;}  
-    }
-    #element{
-        width: 100px;
-        height: 100px;
-        transform-style: preserve-3d;
-        transition: transform 2.5s;
-        transform: rotate3d(1,1,1, 30deg);
-        margin: 50px auto;
 
-    }
-    #element:hover,#element:focus{
-    transform: rotate3d(1,1,1,180deg);
-    }
-    .face{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        backface-visibility: inherit;
-        font-size: 60px;
-        color: black;
-    }
-    .right{
-        background: #e60f0f;
-        transform: rotateY(90deg) translateZ(50px);
-    }
-    .left{
-        background: #0b28cf;
-        transform: rotateY(-90deg) translateZ(50px);
-    }
-    .front{
-        background: #32343f(90,90,90,0.7);
-        transform: translateZ();
-    }
-    .back{
+#gradColores_1 { background-image: linear-gradient(to right, rgb(45, 155, 18), 
+    rgb(17, 150, 88), rgb(21, 42, 231), rgb(15, 207, 15), rgb(189, 12, 94), indigo, rgb(160, 26, 160)); }
+
+#gradColores_2 { background-image: radial-gradient(rgb(172, 13, 13), 
+    rgb(148, 101, 13), rgb(10, 201, 83), rgb(70, 207, 70), rgb(16, 201, 41), rgb(177, 194, 25), violet); }
+
+.button {
+  color: white;
+  background-color: #28d193;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  padding: 15px 32px;
+  display: inline-block;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+.button:hover {
+  color: #4c04aa;
+  background-color: rgb(35, 153, 153);
+}
+
+ul { list-style: none; padding-left: 10px;}
+ul li:nth-child(odd) { background-color: rgb(177, 0, 0); color: white; }
+ul li:nth-child(even) { background-color: rgb(11, 241, 230); color: white; }
+ul li::before { content: "\26A1"; padding-right: 8px; }
+/* 2615,26BD,26BE,26C4 */
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 3px dotted crimson;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  width: 125px;
+  text-align: center;
+  padding: 2px;
+  border: 1px solid gray;
+  background-color: #04AA6D;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.efecto {
+  background-color: aquamarine;
+  width: fit-content;
+  border: 2px solid black;
+  height: 85%; font-size: 85%;
+  transition: height 0.5s, font-size 0.5s, background-color 1.0s;
+}
+
+.efecto:hover {
+  background-color: hotpink;
+  height: 170%; font-size: 170%;
+}
+
+.rainbow_1 {
+  text-align: center;
+  vertical-align: middle;
+  width: 200px; height: 75px;
+  animation-name: rgb;
+  animation-duration: 3.0s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes rgb {
+  0% { background-color: green; }
+  16% { background-color: rgb(151, 151, 17); }
+  33% { background-color: rgb(9, 167, 22); }
+  50% { background-color: rgb(13, 24, 179); }
+  67% { background-color: purple; }
+  82% { background-color: rgb(209, 8, 8); }
+  100% { background-color: rgb(13, 132, 201); }
+}
+
+.barraProgreso {
+  height: 25px; width: 100%; text-align: center;
+  background-color: gray; color: black;
+  font-size: 125%; font-weight: bold;
+  text-transform: uppercase; animation-name: progreso;
+  animation-timing-function: linear; animation-direction: reverse;
+  animation-delay: 5s; animation-duration: 10s;
+}
+
+@keyframes progreso {
+  0% { background-color: rgb(255, 255, 255); width: 0%; }
+  33% { background-color: rgb(0, 110, 255); width: 33%; }
+  66% { background-color: rgb(25, 0, 255); width: 66%; }
+  99% { background-color: rgb(49, 0, 128); width: 99%; }
+}
+
+#element {
+  width: 100px;
+  height: 100px;
+  transform-style: preserve-3d;
+  transition: transform 2.5s;
+  transform: rotate3d(1, 1, 1, 30deg);
+  margin: 50px auto;
+}
+
+#element:hover, #element:focus {
+  transform: rotate3d(1, 1, 1, 180deg);
+}
+
+.face {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: inherit;
+  font-size: 60px;
+  color: black;
+}
+
+.right {
+  background: rgba(210, 0, 0, 0.7);
+  transform: rotateY(90deg) translateZ(50px);
+}
+
+.left {
+  background: rgba(0, 0, 210, 0.7);
+  transform: rotateY(-90deg) translateZ(50px);
+}
+
+.front 
+{
+  background: rgba(90, 90, 90, 0.7);
+  transform: translateZ(50px);
+}
+
+.back 
+{
+  background: rgba(0, 210, 0, 0.7);
+  transform: rotateY(180deg) translateZ(50px);
+}
+
+.top
+{
+  background: rgba(210, 210, 0, 0.7);
+  transform: rotateX(90deg) translateZ(50px);
+}
+
+.bottom 
+{
+  background: rgba(210, 0, 210, 0.7);
+  transform: rotateX(-90deg) translateZ(50px);
+}
+    .back
+{
         background: #0aad2e(90,90,90,0.7);
         transform: translateZ();
     }
