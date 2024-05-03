@@ -1,0 +1,131 @@
+UNIDAD: PARCIAL No.1
+    Descripcion:Estructura basica HTML5
+    Fecha: 02 de febrero de 2024
+-->
+<!DOCTYPE HTML>
+<html>
+    <!--Etiqueta de encabezado-->
+    <head>
+    <!--Etiqueta de titulo-->
+        <title>programacion web1</title>
+        <style type="text/css">
+            iframe{
+                border:3px dashed rgb(43, 76, 226)
+            }
+        </style>
+        <script>
+            document.body.style.backgroundColor="black";
+            console.log(eval("3+5*4-2"));
+            console.log(eval("(3+5(*(4-2)"));
+            console.log(eval("3+(5*4)-2"));
+            console.log(eval("3+5*(4-2)"));
+            document.body.style.backgroundColor="blue";
+        </script>
+ </head>
+    <!--Etiqueta de cuerpo-->
+        <body>
+            <script>
+                document.body.style.backgroundColor="grey"
+            </script>
+            <h1>Elementos externos</h1>
+            <p>
+            <iframe height="400"width="500" src="https://es.wikipedia.org/wiki/Wikipedia">---contenedor de paginas</iframe>
+            <iframe height="200"width="500" src="https://www.youtube.com/watch?v=gbb81nbw7tY">---contenedor de paginas</iframe>
+            </p>
+            <h1>Lista con JavaScript</h1>
+            <o1>
+                <li id="item_1"></li>
+                <li id="item_2"></li>
+                <li id="item_3"></li>
+                <li id="item_4"></li>
+                <li id="item_5"></li>
+            </o1>
+            <script>
+                document.getElementById("item_1").textcontent="UPSLP";
+                document.getElementById("item_2").textcontent="UVM";
+                document.getElementById("item_3").textcontent="UCEM";
+                document.getElementById("item_4").textcontent="UNID";
+            
+            </script>
+            <u1>
+                <li id="item_6"></li>
+                <li id="item_7"></li>
+                <li id="item_8"></li>
+                <li id="item_9"></li>
+                <li id="item_10"></li>
+            </u1> 
+            <script>
+                document.getElementsByTagName("li")[5].textcontent="PATO";
+                document.getElementsByTagName("li")["item_7"].textcontent="rana";
+                document.getElementsByTagName("li")["item_7"].textcontent="gato";
+                document.getElementsByTagName("li")[5].textcontent="perrro";
+            
+            </script>
+                <h1>hola mundo en JavaScript</h1>
+                <p>Consola:
+                    <code>console.log('hola mundo en JavaScript');</code>
+                    <script>
+                        console.log('hola mundo en JavaScript');
+                    </script>
+                </p>
+                <p>
+                document:
+                <code>document.write('hola mundo en java Script');</code>
+                <script>
+                    document.write('hola mundo en java Script');
+                </script>
+                </p>
+                <p>
+                    alert:
+                    <code> alert('Hola mundo en JavaScript')</code>
+                    <script>
+                        alert('Hola mundo en JavaScript')
+                    </script>
+                    <br>
+                    <code>confirm('hola mundo en JavaScript?');</code>
+                    <script>
+                        confirm('CONFIRM: Hola mundo en JavaScript')
+                    </script>
+                    <br>
+                    prompt:
+                    <code>prompt('PROMPT:Hola mundo en JavaScript=?');</code>
+                    <script>
+                        prompt('PROMPT:Hola mundo en JavaScript=?');
+                    </script>
+                </p>
+                        <h1>ejemplos</h1>
+                            <!--
+                            <script>
+                                if(confirm('Aceptas entregar acceso completo a tu computadora para entrar al sitio y hacer una donacion a  뭐하세요???') ==true) {
+                                location.href="https://es.wikipedia.org/wiki/Wikipedia"
+                                }
+                                else{
+                                location.href="https://www.msn.com/es-mx/noticias/mexico/x%C3%B3chitl-presidenta-la-candidata-lidera-por-primera-vez-en-el-tracking-diario-de-massive-caller/ar-AA1nZFVL?ocid=msedgntp&pc=U531&cvid=b29870ad068e40f9b4c1007bee61227c&ei=11"
+                                }
+                            </script>
+                            -->
+                        <script>
+                            var intentos= 0;
+                            var clave =Math.floor(Math.random()*100);
+                            var password='';
+                            var bandera = true;
+                            do{
+                            password=prompt('adivina el  numero que estoy pensando...llevas ' + intentos +' intentos')
+                            intentos =intentos +1;
+                            console.log('Clave:' +clave+', valor' +password +'intentos'+intentos);
+                            if(password>clave)
+                                alert('incorrecto el numero debe ser menor!!!');
+                                else if(password<clave)
+                                    alert('incorrecto el numero debe ser mayor!!!');
+                                    else{
+                                        bandera=false;
+                                        alert('acceso concedido.... te tardastes ' + intentos +' intentos');
+                                    }
+                            }while (bandera);
+                            
+                            
+                            
+                        </script>
+
+        </body>
+</html>
