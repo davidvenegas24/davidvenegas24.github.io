@@ -108,8 +108,38 @@
                             </ul>    
                         </details>    
                         </li>
+                        <li>
+                            <details>
+                            <summary> Actividad No 4</summary>
+                                <ul>
+                                <li>Enlace: <a href="unidad 2\u2A4.html">clic aqui</a></li>
+                                <li>Descripci&oacute;n: <cite> curso de verano</cite>   </li>
+                                <li>Etiquetas<cite>form,class,legend,fieldset,lavel,div,imput,name,type,placeholder,class, </cite>   </li> 
+                                </ul>    
+                            </details>    
+                            </li>
             </ol>
             <h2>&laquo;&laquo;&laquo; Unidad 3 &laquo;&laquo;&laquo;</h2>
+            <li>
+                <details>
+                <summary> Actividad No 3</summary>
+                    <ul>
+                    <li>Enlace: <a href="unidad 3\U3U2.html">clic aqui</a></li>
+                    <li>Descripci&oacute;n: <cite> curso de verano</cite>   </li>
+                    <li>Etiquetas<cite>form,class,legend,fieldset,lavel,div,imput,name,type,placeholder,class, </cite>   </li> 
+                    </ul>    
+                </details>    
+                </li>
+                <li>
+                    <details>
+                    <summary> ejemplo</summary>
+                        <ul>
+                        <li>Enlace: <a href="unidad 3\ejemplo.css">clic aqui</a></li>
+                        <li>Descripci&oacute;n: <cite> curso de verano</cite>   </li>
+                        <li>Etiquetas<cite>form,class,legend,fieldset,lavel,div,imput,name,type,placeholder,class, </cite>   </li> 
+                        </ul>    
+                    </details>    
+                    </li>
         <body>
     <head>
 </html>
