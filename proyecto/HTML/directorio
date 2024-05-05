@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+	<title>Programación Web I</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="estilo/bootstrap.min.css">
+	<link rel="stylesheet" href="estilo/sitio.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</head>
+	<!--empieza codigo-->
+	<body >
+	<h1 style="text-align: center; color: floralwhite;">«««Directorio«««</h1>
+		
+			<p style="color: antiquewhite;">
+				La Universidad brindará atención principalmente vía correo electrónico, ponemos a tu servicio las siguientes direcciones electrónicas:
+			</p>
+            <h3  style="color: antiquewhite;">
+				Teléfono: (444) 870 – 21 – 00
+			</h3>
+            <h5  style="color: antiquewhite;">
+				Rectoría
+                <br>
+                Dr. Mario Alberto Martínez Rojas
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">rectoria@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Vicerrectoría
+                <br>
+                Dra. Martha Angélica de la Rosa Hernández
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">vicerrectoria@upslp.edu.mx</a>
+                
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Dirección de Administración y Finanzas
+                <br>
+                Dr. Fernando Rodrigo Palavicini Piña
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">daf@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Servicios Escolares
+                <br>
+                Dra. Laura Medina Barboza
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> serviciosescolares@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Comunicación y Promoción – Oferta Educativa
+                <br>
+                Dra. Yolanda Jara Centeno
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> comunicacionypromocion@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Vinculación
+                <br>
+                Dra. Laura Medina Barboza
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  vinculacion@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Extensión Universitaria
+                <br>
+                Lic. Johana Saydee Ramírez Rojas
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">    extension.universitaria@upslp.edu.mx</a>
+             
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Coordinación de Ingeniería en Telemática -Redes y Telecomunicaciones- (ITEM)
+                <br>
+                Dr. Juan Antonio Cabrera Rico
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">   item-irtel@upslp.edu.mx</a>
+              
+			</h5>
+            <var><h5  style="color: antiquewhite;">
+				Coordinación de Ingeniería en Tecnologías de la Información (ITI)
+                <br>
+                Dr. Juan Antonio Cabrera Rico
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  iti@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Coordinación de Ingeniería en Tecnologías de Manufactura (ITMA)
+                <br>
+                Dr. Margarito Martínez Cruz
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> itma@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Coordinación de Ingeniería en Sistemas y Tecnologías Industriales (ISTI)
+                <br>
+                Dra. Patricia Castillo Galván
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">   isti@upslp.edu.mx</a>
+              
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Coordinación de la Licenciatura en Administración y Gestión (LAG)    
+                <br>
+                Gloria Cristina Palos Cerda
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  lag@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Coordinación de la Licenciatura en Mercadotecnia Internacional (LMI)
+                <br>
+                Mtra. Xóchitl Hernández Velázquez
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> lmi@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Academia de Matemáticas y Ciencias
+            <br>
+            <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> matematicas@upslp.edu.mx</a>
+            
+            <br>
+            <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  ciencias@upslp.edu.mx </a>
+           
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Academia de Inglés
+                <br>
+                Mtra. Patricia García Ramos
+                <br> 
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  cadi@upslp.edu.mxserviciosescolares@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Academia de Núcleo General
+                <br>
+                Mtra. Guadalupe del Socorro Palmer de los Santos
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> nucleo@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Biblioteca (CID)
+                <br>
+                Lic. Alí Omar Mirabal Santillán
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">   id_upslp@upslp.edu.mx</a>
+              
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Centro de Autoaprendizaje del Idioma Inglés (CADI)
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> cadi.reservacion@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Centro Certificador MOS
+                <br>
+                Mtra. María Teresa Reyes Harfush
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> certificaciones@upslp.edu.mx</a>
+                
+			</h5>
+            v
+            <h5  style="color: antiquewhite;">
+				Academia de CISCO
+                <br> 
+                Dra. Liliana Gámez Zavala
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">   academiadecisco@upslp.edu.mx</a>
+              
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Centro de Nuevas Tecnologías (CNT)
+                <br>
+                Dr. Juan Antonio Cabrera Rico
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  cnt@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Centro Integral de Mercadotecnia y Medios Audiovisuales (CIMMA)
+                <br>
+                Mtra. Xóchitl Hernández Velázquez
+                <br>
+
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> cimma@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Apoyo a la Docencia
+                <br>
+                Lic. Alejandra Carpinteyro Zarazúa
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  apoyoaladocencia@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Becas
+                <br>
+                Lic. Alejandra Carpinteyro Zarazúa
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas">  becas_upslp@upslp.edu.mx</a>
+               
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Vicerrectoría
+                <br>
+                Dra. Martha Angélica de la Rosa Hernández
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> vicerrectoria@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Proyecto Institucional de Tutorías
+                <br>
+                Mtra. Verónica Hernández García
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> tutorias@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Departamento de Psicopedagogía
+                <br>
+                Lic. Bernardo Rangel Gómez
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> psicopedagogia@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Calidad Institucional
+                <br>
+                Mtra. Adriana Acevedo Sánchez
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> calidad@upslp.edu.mx</a>
+                
+			</h5>
+            <var><h5  style="color: antiquewhite;">
+				Servicios de Salud
+                <br>
+                Lic. Alejandra Carpinteyro Zarazúa
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> serviciosdesalud@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Coordinación de Deportes
+                <br>
+                Roy Aldrett Lara
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> deportes@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Responsabilidad Social
+                <br>
+                Lic. Eva María Flores Ríos
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> responsabilidadsocial@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Servicios Informáticos
+                <br>
+                Dra. Ingrid Guel Hernández
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> s.informaticos@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Encargada de Despacho de Recursos Humanos
+                <br>
+                Mtra. Yadira Edith Brann González
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> recursoshumanos@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Vicerrectoría
+                <br>
+                Dra. Martha Angélica de la Rosa Hernández
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> vicerrectoria@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Recursos Materiales
+                <br>
+                Marco Antonio Arriaga Macías
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> r.materiales@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Adquisiciones
+                <br>
+                Lic. Jorge Barrera Sustaita
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> adquisiciones@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Finanzas
+                <br>
+                C.P. Laura Cansino Bravo
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> finanzas@upslp.edu.mx</a>
+                
+			</h5>
+            <h5  style="color: antiquewhite;">
+				Jurídico
+                <br>
+                <a href="https://camisetaspendejas.mx/collections/calacas-chidas"> juridico@upslp.edu.mxez</a>
+                
+			</h5>
+                
+	</body>
+														
