@@ -32,30 +32,30 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Nuestra universidad<span class="caret"></span></a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="#" id="p2_11" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">¿Que es UPSLP?</a></li>
-						<li><a href="#" id="p2_12" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Modelo Académico</a></li>
-						<li><a href="#" id="p2_13" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Directorio</a></li>
+						<li><a href="#" id="p2_11" onclick="muestraArchivo('html/Que es UPSLP.html');return false;">¿Que es UPSLP?</a></li>
+						<li><a href="#" id="p2_12" onclick="muestraArchivo('html/Modelo academico.html');return false;">Modelo Académico</a></li>
+						<li><a href="#" id="p2_13" onclick="muestraArchivo('html/directorio.html');return false;">Directorio</a></li>
 					</ul>
 					</li>
 				<li class="dropdown">
 					<!--incia primer elemto-->
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Oferta Educativa<span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
-					<li><a href="#" id="p1_11" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Ingeniería en Sistemas y Tecnologías Industriales (ISTI)</a></li>
-				    <li><a href="#" id="p1_12" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Ingeniería en Tecnologías de la Información (ITI)</a></li>
-					<li><a href="#" id="p1_13" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Ingeniería en Telemática (ITEM)</a></li>
-					<li><a href="#" id="p1_13" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Ingeniería en Tecnologías de Manufactura (ITMA)</a></li>
-				    <li><a href="#" id="p1_13" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Licenciatura en Mercadotecnia Internacional (LMI)</a></li>
-				    <li><a href="#" id="p1_13" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Licenciatura en Administración y Gestión (LAG)</a></li>
+					<li><a href="#" id="p1_11" onclick="muestraArchivo('html/ISTI.html');return false;">Ingeniería en Sistemas y Tecnologías Industriales (ISTI)</a></li>
+				    <li><a href="#" id="p1_12" onclick="muestraArchivo('html/ITI.html');return false;">Ingeniería en Tecnologías de la Información (ITI)</a></li>
+					<li><a href="#" id="p1_13" onclick="muestraArchivo('html/ITEM.html');return false;">Ingeniería en Telemática (ITEM)</a></li>
+					<li><a href="#" id="p1_13" onclick="muestraArchivo('html/ITMA.html');return false;">Ingeniería en Tecnologías de Manufactura (ITMA)</a></li>
+				    <li><a href="#" id="p1_13" onclick="muestraArchivo('html/LMI.html');return false;">Licenciatura en Mercadotecnia Internacional (LMI)</a></li>
+				    <li><a href="#" id="p1_13" onclick="muestraArchivo('html/LAG.html');return false;">Licenciatura en Administración y Gestión (LAG)</a></li>
 				
 				</ul>
 				<!--2 elemnyto-->
 				<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Conócenos<span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
-					<li><a href="#" id="p2_11" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Centros y Laboratorios</a></li>
-					<li><a href="#" id="p2_12" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Extensión Universitaria</a></li>
-					<li><a href="#" id="p2_13" onclick="muestraArchivo('HTML/sitioenConstruccion.jpg');return false;">Cultura y Deportes</a></li>
+					<li><a href="#" id="p2_11" onclick="muestraArchivo('estilo/sitioenConstruccion.jpg');return false;">Centros y Laboratorios</a></li>
+					<li><a href="#" id="p2_12" onclick="muestraArchivo('estilo/sitioenConstruccion.jpg');return false;">Extensión Universitaria</a></li>
+					<li><a href="#" id="p2_13" onclick="muestraArchivo('estilo/sitioenConstruccion.jpg');return false;">Cultura y Deportes</a></li>
 				</ul>
 				</li>
 				<!--3 elemnyto-->
@@ -64,15 +64,15 @@
 				
                 <li class="dropdown">
 					<!--incia primer elemto-->
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Egresados</a>
+				<a href="#" onclick="muestraArchivo('estilo/sitioenConstruccion.jpg');return false;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Egresados</a>
 				</li>	
 				<li class="dropdown">
 					<!--incia primer elemto-->
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Bolsa de trabajo</a>
+				<a href="#" onclick="muestraArchivo('estilo/sitioenConstruccion.jpg');return false;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Bolsa de trabajo</a>
 				</li>	
 				<li class="dropdown">
 					<!--incia primer elemto-->
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">English</a>
+				<a href="#" onclick="muestraArchivo('estilo/sitioenConstruccion.jpg');return false;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">English</a>
 				</li>	
 				</ul>
 				
